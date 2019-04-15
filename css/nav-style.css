@@ -4,6 +4,7 @@
 */
 
 /* Screen reader only, visually hidden */
+
 .sr-only {
     position: absolute;
     width: 1px;
@@ -154,6 +155,7 @@ a.skip:hover {
     .nav-links:hover {
         color: white;
     }
+    
 }
 
 /* end media query for navbar */
